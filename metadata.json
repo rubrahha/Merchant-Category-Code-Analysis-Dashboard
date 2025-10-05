@@ -1,0 +1,5 @@
+{
+  "name": "Merchant Category Code (MCC) Analysis Dashboard",
+  "description": "An analytics dashboard to classify and analyze merchant transactions using Merchant Category Codes (MCCs). It processes transaction data to uncover customer spending trends and provides automated daily insights powered by AI.",
+  "requestFramePermissions": []
+}
